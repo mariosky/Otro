@@ -7,7 +7,7 @@ namespace tarea11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wsd!");
+            Console.WriteLine("Helo Wsd!");
         }
     }
 }
